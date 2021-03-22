@@ -1,2 +1,2 @@
 # A page you can only access once with php
-A page that only allows people to access it once.
+Make sure you set the correct server permissions for ips.txt so no one can access it
