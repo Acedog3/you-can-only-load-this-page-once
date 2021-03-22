@@ -9,7 +9,7 @@
     if(strstr($ips, $my_ip)){
         echo '<h1>Blocked.</h1>'; //what the user is shown once they have already loaded the page
     }else{
-        echo '<h1>This is your first time loading.</h1>'; //what the user is shown on the first time loading. kind of self explanatory
+        echo '<h1>This is your first time visiting.</h1>'; //what the user is shown on the first time loading. kind of self explanatory
     }
 
 ?>
